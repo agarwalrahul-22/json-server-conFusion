@@ -4,7 +4,7 @@
   "description": "Simple json database to deploy to the host of your choice",
   "main": "server.js",
   "scripts": {
-    "start": "json-server --watch db.json -p 3001 -d 2000"
+    "start": "json-server --watch "
   },
   "keywords": [
     "json-server,heroku, node, REST API"
